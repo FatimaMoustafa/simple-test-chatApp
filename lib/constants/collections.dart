@@ -1,0 +1,1 @@
+const MessagesCollections = 'messages';
